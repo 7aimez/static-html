@@ -1,3 +1,3 @@
 ## Assets Directory
 
-Put media file in here.
+Put media files in here.
