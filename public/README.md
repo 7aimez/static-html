@@ -1,3 +1,3 @@
 ## Public Directory
 
-Put all the file which you want to be published in here.
+Put all the files which you want to be published in here.
